@@ -1,10 +1,8 @@
 # Fix-Kali-termux
 
-<h1 align="center"><u> ðŸ“ŒInstall Kali Linux in androidðŸ˜® </u></h1>
-
 ![GUI VERSION ](https://raw.githubusercontent.com/thakur2309/install-kali-termux/refs/heads/main/IMG_20250418_085226.jpg)
 
-<h3 align="center"> Preview!</h3>
+<h2 align="center"> Preview!</h2>
 
 # Kali NetHunter Installation in Termux
 
