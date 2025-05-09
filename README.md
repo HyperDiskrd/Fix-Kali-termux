@@ -54,9 +54,9 @@ nethunter kex passwd
 ```
 nethunter kex &
 ```
-<h1 to reset kali termux </h1>
+### to reset kali termux
 ```
-kex
+nethunter reset
 ```
 
 
