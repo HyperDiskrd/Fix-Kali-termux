@@ -49,11 +49,12 @@ chmod +x install-kali.sh
 
 ### After installation complete run this command 
 ```
-nethunter
+nethunter kex passwd
 ```
 ```
-kex passwd 
+nethunter kex &
 ```
+<h1 to reset kali termux </h1>
 ```
 kex
 ```
